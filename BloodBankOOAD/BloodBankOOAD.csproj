@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4B76BC2A-C94B-4990-B9E9-CEB5EF4E1ECB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BloodBankOOAD</RootNamespace>
+    <AssemblyName>BloodBankOOAD</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcceptorDonorForms\GetUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\GetUser.designer.cs">
+      <DependentUpon>GetUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\Medicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\Medicine.designer.cs">
+      <DependentUpon>Medicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\UpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\UpdateUser.designer.cs">
+      <DependentUpon>UpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\UserBloodTranfuse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\UserBloodTranfuse.designer.cs">
+      <DependentUpon>UserBloodTranfuse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\UserReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\UserReports.Designer.cs">
+      <DependentUpon>UserReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\YourBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcceptorDonorForms\YourBill.designer.cs">
+      <DependentUpon>YourBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\AllReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\AllReports.Designer.cs">
+      <DependentUpon>AllReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\BloodTransfusionEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\BloodTransfusionEntry.Designer.cs">
+      <DependentUpon>BloodTransfusionEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\BloodTransfusion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\BloodTransfusion.Designer.cs">
+      <DependentUpon>BloodTransfusion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\CompleteInfoOfUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\CompleteInfoOfUsers.designer.cs">
+      <DependentUpon>CompleteInfoOfUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\CreateNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\CreateNewUser.designer.cs">
+      <DependentUpon>CreateNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\DetailsID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\DetailsID.designer.cs">
+      <DependentUpon>DetailsID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Donation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Donation.Designer.cs">
+      <DependentUpon>Donation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\EditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\EditUser.designer.cs">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\GetAllEntries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\GetAllEntries.Designer.cs">
+      <DependentUpon>GetAllEntries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\MedicineAlloting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\MedicineAlloting.Designer.cs">
+      <DependentUpon>MedicineAlloting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\NewDonation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\NewDonation.Designer.cs">
+      <DependentUpon>NewDonation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\NewMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\NewMedicine.Designer.cs">
+      <DependentUpon>NewMedicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ReportGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ReportGenerator.Designer.cs">
+      <DependentUpon>ReportGenerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\RetrievingDonating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\RetrievingDonating.Designer.cs">
+      <DependentUpon>RetrievingDonating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\UpdateByID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\UpdateByID.Designer.cs">
+      <DependentUpon>UpdateByID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\UpdateDonation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\UpdateDonation.Designer.cs">
+      <DependentUpon>UpdateDonation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\GetByID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\GetByID.Designer.cs">
+      <DependentUpon>GetByID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\UpdateMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\UpdateMedicine.Designer.cs">
+      <DependentUpon>UpdateMedicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\UpdateReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\UpdateReport.Designer.cs">
+      <DependentUpon>UpdateReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\AcceptorDonorInfo.cs" />
+    <Compile Include="Classes\Blood.cs" />
+    <Compile Include="Classes\BloodBank.cs" />
+    <Compile Include="Classes\BloodBankAbstract.cs" />
+    <Compile Include="Classes\BloodBankController.cs" />
+    <Compile Include="Classes\BloodRefined.cs" />
+    <Compile Include="Classes\BloodTranfuseController.cs" />
+    <Compile Include="Classes\Connection.cs" />
+    <Compile Include="Classes\DonatingRetrieving.cs" />
+    <Compile Include="Classes\DonationEntryController.cs" />
+    <Compile Include="Classes\DonationsController.cs" />
+    <Compile Include="Classes\Donations.cs" />
+    <Compile Include="Classes\FacadeController.cs" />
+    <Compile Include="Classes\InfoOfUsers.cs" />
+    <Compile Include="Classes\MedicineEntry.cs" />
+    <Compile Include="Classes\ReportController.cs" />
+    <Compile Include="Classes\ReportEntry.cs" />
+    <Compile Include="Classes\SignUp.cs" />
+    <Compile Include="Classes\SignUpController.cs" />
+    <Compile Include="Classes\Transfusion.cs" />
+    <Compile Include="Classes\MedicineController.cs" />
+    <Compile Include="Classes\UserBill.cs" />
+    <Compile Include="Classes\UserBillController.cs" />
+    <Compile Include="Classes\UserBloodTransfusee.cs" />
+    <Compile Include="Classes\UserMedicine.cs" />
+    <Compile Include="Classes\UserMedicineController.cs" />
+    <Compile Include="Classes\UserReport.cs" />
+    <Compile Include="Classes\UserReportsController.cs" />
+    <Compile Include="Classes\UsersController.cs" />
+    <Compile Include="Classes\UserTransfuseController.cs" />
+    <Compile Include="Classes\UserUpdate.cs" />
+    <Compile Include="Classes\UserUpdateController.cs" />
+    <Compile Include="LoggedInAsAcceptorDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoggedInAsAcceptorDonor.Designer.cs">
+      <DependentUpon>LoggedInAsAcceptorDonor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\LoggedInAsAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\LoggedInAsAdmin.Designer.cs">
+      <DependentUpon>LoggedInAsAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Login.cs" />
+    <Compile Include="Classes\LoginController.cs" />
+    <Compile Include="Classes\User.cs" />
+    <Compile Include="MainForms\ContactUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\ContactUs.Designer.cs">
+      <DependentUpon>ContactUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MainForms\WhyDonateBlood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\WhyDonateBlood.Designer.cs">
+      <DependentUpon>WhyDonateBlood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\TransfusionController.cs" />
+    <EmbeddedResource Include="AcceptorDonorForms\GetUser.resx">
+      <DependentUpon>GetUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcceptorDonorForms\Medicine.resx">
+      <DependentUpon>Medicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcceptorDonorForms\UpdateUser.resx">
+      <DependentUpon>UpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcceptorDonorForms\UserBloodTranfuse.resx">
+      <DependentUpon>UserBloodTranfuse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcceptorDonorForms\UserReports.resx">
+      <DependentUpon>UserReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcceptorDonorForms\YourBill.resx">
+      <DependentUpon>YourBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\AllReports.resx">
+      <DependentUpon>AllReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\BloodTransfusionEntry.resx">
+      <DependentUpon>BloodTransfusionEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\BloodTransfusion.resx">
+      <DependentUpon>BloodTransfusion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\CompleteInfoOfUsers.resx">
+      <DependentUpon>CompleteInfoOfUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\CreateNewUser.resx">
+      <DependentUpon>CreateNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\DetailsID.resx">
+      <DependentUpon>DetailsID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Donation.resx">
+      <DependentUpon>Donation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\EditUser.resx">
+      <DependentUpon>EditUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\GetAllEntries.resx">
+      <DependentUpon>GetAllEntries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\MedicineAlloting.resx">
+      <DependentUpon>MedicineAlloting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\NewDonation.resx">
+      <DependentUpon>NewDonation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\NewMedicine.resx">
+      <DependentUpon>NewMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ReportGenerator.resx">
+      <DependentUpon>ReportGenerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\RetrievingDonating.resx">
+      <DependentUpon>RetrievingDonating.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\UpdateByID.resx">
+      <DependentUpon>UpdateByID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\UpdateDonation.resx">
+      <DependentUpon>UpdateDonation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\GetByID.resx">
+      <DependentUpon>GetByID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\UpdateMedicine.resx">
+      <DependentUpon>UpdateMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\UpdateReport.resx">
+      <DependentUpon>UpdateReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoggedInAsAcceptorDonor.resx">
+      <DependentUpon>LoggedInAsAcceptorDonor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\LoggedInAsAdmin.resx">
+      <DependentUpon>LoggedInAsAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\ContactUs.resx">
+      <DependentUpon>ContactUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="MainForms\WhyDonateBlood.resx">
+      <DependentUpon>WhyDonateBlood.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

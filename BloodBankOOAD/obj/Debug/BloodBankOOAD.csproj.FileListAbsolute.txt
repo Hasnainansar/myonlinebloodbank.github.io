@@ -1,0 +1,203 @@
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe.config
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\bin\Debug\BloodBankOOAD.pdb
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.Properties.Resources.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.csproj.GenerateResource.Cache
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.exe
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.pdb
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.Form1.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.SignUp.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.WhyDonateBlood.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.ContactUs.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.LoggedInAsAcceptorDonor.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.LoggedInAsAdmin.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.BloodTransfusionEntry.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.BloodTransfusion.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.csprojResolveAssemblyReference.cache
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserReports.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe.config
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.exe
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.pdb
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\bin\Debug\BloodBankOOAD.pdb
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserReports.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.BloodTransfusionEntry.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.BloodTransfusion.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.LoggedInAsAcceptorDonor.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.LoggedInAsAdmin.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.ContactUs.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.Form1.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.SignUp.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.Properties.Resources.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.WhyDonateBlood.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.csproj.GenerateResource.Cache
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.ReportGenerator.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.AllReports.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateReport.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.csprojResolveAssemblyReference.cache
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.MedicineAlloting.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewMedicine.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateMedicine.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetAllEntries.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.RetrievingDonating.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.Donation.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateByID.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateDonation.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewDonation.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetByID.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe.config
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.pdb
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.User_Information.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Medicine.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UpdateUser.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserBloodTranfuse.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserReports.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.YourBill.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.AllReports.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.BloodTransfusionEntry.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.BloodTransfusion.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.CompleteInfoOfUsers.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.CreateNewUser.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.DetailsID.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.Donation.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.EditUser.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetAllEntries.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.MedicineAlloting.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewDonation.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewMedicine.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.ReportGenerator.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.RetrievingDonating.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateByID.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateDonation.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetByID.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateMedicine.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateReport.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.LoggedInAsAcceptorDonor.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.LoggedInAsAdmin.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.ContactUs.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Form1.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.SignUp.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Properties.Resources.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.WhyDonateBlood.resources
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.csproj.GenerateResource.Cache
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.exe
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.pdb
+C:\Users\K-D3\Desktop\Hasnain CV\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.csprojResolveAssemblyReference.cache
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe.config
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.exe
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.pdb
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.pdb
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.csprojResolveAssemblyReference.cache
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.User_Information.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Medicine.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UpdateUser.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserBloodTranfuse.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserReports.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.YourBill.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.AllReports.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.BloodTransfusionEntry.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.BloodTransfusion.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.CompleteInfoOfUsers.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.CreateNewUser.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.DetailsID.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.Donation.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.EditUser.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetAllEntries.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.MedicineAlloting.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewDonation.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewMedicine.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.ReportGenerator.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.RetrievingDonating.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateByID.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateDonation.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetByID.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateMedicine.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateReport.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.LoggedInAsAcceptorDonor.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.LoggedInAsAdmin.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.ContactUs.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Form1.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.SignUp.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Properties.Resources.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.WhyDonateBlood.resources
+C:\Users\Raza Ali Khan\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.csproj.GenerateResource.Cache
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe.config
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.exe
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.pdb
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.pdb
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.csprojResolveAssemblyReference.cache
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.User_Information.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Medicine.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UpdateUser.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserBloodTranfuse.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserReports.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.YourBill.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.AllReports.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.BloodTransfusionEntry.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.BloodTransfusion.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.CompleteInfoOfUsers.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.CreateNewUser.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.DetailsID.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.Donation.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.EditUser.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetAllEntries.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.MedicineAlloting.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewDonation.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewMedicine.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.ReportGenerator.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.RetrievingDonating.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateByID.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateDonation.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetByID.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateMedicine.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateReport.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.LoggedInAsAcceptorDonor.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.LoggedInAsAdmin.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.ContactUs.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Form1.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.SignUp.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Properties.Resources.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.WhyDonateBlood.resources
+C:\Users\Raza Ali Khan\Desktop\Softwares and Documents\C# projects\BloodBankOOAD\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.csproj.GenerateResource.Cache
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe.config
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.exe
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.pdb
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.exe
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\bin\Debug\BloodBankOOAD.pdb
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.csprojResolveAssemblyReference.cache
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.User_Information.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Medicine.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UpdateUser.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserBloodTranfuse.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.UserReports.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AcceptorDonorForms.YourBill.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.AllReports.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.BloodTransfusionEntry.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.BloodTransfusion.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.CompleteInfoOfUsers.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.CreateNewUser.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.DetailsID.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.Donation.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.EditUser.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetAllEntries.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.MedicineAlloting.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewDonation.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.NewMedicine.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.ReportGenerator.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.RetrievingDonating.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateByID.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateDonation.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.GetByID.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateMedicine.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.AdminForms.UpdateReport.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.LoggedInAsAcceptorDonor.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Classes.LoggedInAsAdmin.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.ContactUs.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Form1.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.SignUp.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.Properties.Resources.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.WhyDonateBlood.resources
+C:\Users\Tahir Mehmood\Desktop\BloodBankOOAD - H\BloodBankOOAD\obj\Debug\BloodBankOOAD.csproj.GenerateResource.Cache
